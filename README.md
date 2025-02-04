@@ -59,7 +59,7 @@ me.about_me()
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/moxit-shah](https://www.linkedin.com/in/moxit-shah6114/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/moxit-shah6114](https://www.linkedin.com/in/moxit-shah6114/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:moxitshah2004@gmail.com)
 <!--[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=About.me)](https://yourportfolio.com) -->
 
